@@ -32,3 +32,8 @@ input{
 input:hover{
 	transform: scale(1.1);
 }
+
+button{
+	margin-top: 10px;
+	font: 200 1em 'Raleway', sans-serif;
+}
