@@ -1,3 +1,5 @@
+var _ = require('lodash');
+
 var css = document.querySelector("h3");
 var color1 = document.querySelector(".color1"); //Selecting the class from the tag
 var color2 = document.querySelector(".color2"); //Selecting the class from the tag
