@@ -1,0 +1,19 @@
+{
+  "name": "linearbackgroundgen",
+  "version": "1.0.0",
+  "description": "Linear background generator",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishtech20/linearBackgroundGen.git"
+  },
+  "author": "Rishabh Madan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishtech20/linearBackgroundGen/issues"
+  },
+  "homepage": "https://github.com/rishtech20/linearBackgroundGen#readme"
+}
